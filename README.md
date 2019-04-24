@@ -9,7 +9,6 @@
 ## General
 
 ## Integracije
-* [Complete the NativeScript installation guide](http://docs.nativescript.org/angular/start/quick-setup.html)
 
-[E-racun]: /eracun.md	"E-racuni"
+* [E-račun](eracun.md)
 
