@@ -2,7 +2,7 @@
 ## Komunal
 ### Tehnički podaci
 
-* [Brojila i uređaji] (brojila.md)
+* [Brojila i uređaji](brojila.md)
 
 ## Proizvodnja
 
