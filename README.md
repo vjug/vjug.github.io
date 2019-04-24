@@ -1,11 +1,11 @@
 # Dokumentacija INKOM & INPOS
 ## Komunal
 ### Tehnički podaci
-[Brojila i uređaji]: /brojila.md	"Brojila i uređaji"
+[Brojila i uredaji]: /brojila.md	"Brojila i uredaji"
 
 ## Proizvodnja
 
 ## General
 
 ## Integracije
-[E-račun]: /eracun.md	"E-računi"
+[E-racun]: /eracun.md	"E-racuni"
